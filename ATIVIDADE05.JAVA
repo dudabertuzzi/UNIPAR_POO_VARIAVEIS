@@ -1,19 +1,19 @@
 public class ControleProdutos {
     public static void main(String[] args) {
     
-    String nomeDoSmartphone = "Xiaomi10";
-    String marcaDoSmartphone = "Xiaomi";
-    double precoDoSmartphone = 1500.00;
-    Integer quantidadeEstoqueSmartphone = 5;
+    String nomeDoSmartphone = "SamsungA10s";
+    String marcaDoSmartphone = "Samsung";
+    double precoDoSmartphone = 1200.00;
+    Integer quantidadeEstoqueSmartphone = 2;
     
-    String nomeDoLaptop= "Lenovo15LS";
-    String marcaDoLaptop = "Lenovo";
-    double precoDoLaptop = 5500.00;
-    Integer quantidadeEstoqueLaptop = 6;
+    String nomeDoLaptop= "SamsungBook2";
+    String marcaDoLaptop = "Samsung";
+    double precoDoLaptop = 4000.00;
+    Integer quantidadeEstoqueLaptop = 4;
     
-    String nomeDoFoneDeOuvidoBluetooth= "XiaomiT2";
-    String marcaDoFoneDeOuvidoBluetooth = "Xiaomi";
-    double precoDoFoneDeOuvidoBluetooth = 500.00;
+    String nomeDoFoneDeOuvidoBluetooth= "FoneJBL";
+    String marcaDoFoneDeOuvidoBluetooth = "JBL";
+    double precoDoFoneDeOuvidoBluetooth = 200.00;
     Integer quantidadeFoneDeOuvidoBluetooth = 15;
     
     System.out.println("Smartphone");
