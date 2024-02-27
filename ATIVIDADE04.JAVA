@@ -5,6 +5,6 @@ public class ControleEstoque {
        String categoriaDoProduto;
        double precoDoProduto;
        Integer quanridadeDoProduto;
-       
-    }
+       
+    }
 }
