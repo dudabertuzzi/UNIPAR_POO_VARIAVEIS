@@ -1,0 +1,40 @@
+ATIVIDADE DE REVISÃO:
+
+1. O que é orientação a objetos e quais são seus princípios fundamentais?
+R: É um modelo de programação onde diversas classes possuem características que definem um objeto na vida real. Princípios fundamentais são: Abstração, Encapsulamento, Herança e Polimorfismo;
+
+2. Quais são as vantagens da orientação a objetos em comparação com paradigmas de programação procedural?
+R: Reutilização de códigos, organização perfeita, fácil de atualizar o código e a manutenção.
+
+3. Explique o conceito de encapsulamento e como ele é implementado em linguagens de programação orientadas a objetos.
+R: O encapsulamento em linguagens orientadas a objetos como Java permite ocultar a complexidade interna de um objeto e permite acesso apenas às operações necessárias para interagir com ele, promovendo assim a segurança, a integridade e a manutenção do código.
+
+4. Explique o conceito de classe e objeto em programação orientada a objetos, e como eles estão relacionados.
+R: Uma classe é o modelo que define as características e comportamentos dos objetos, enquanto um objeto é uma instância específica dessa classe, com seus próprios valores para os atributos e capacidade de realizar os métodos definidos na classe. Os objetos são criados a partir de uma classe.
+Exemplo: Classe "Carro". Atributos como cor, modelo e ano, e métodos como ligar, desligar e acelerar. Um objeto de um carro específico como a cor vermelha, modelo sedan e ano 2022.
+
+5. Qual é a importância dos construtores e métodos em uma classe em programação orientada a objetos?
+R: Os construtores são métodos importantes para garantir que os objetos tenham um estado inicial consistente. Os métodos são essenciais para que as ações dos objetos sejam executadas.
+
+6. Quais são as diferenças entre métodos estáticos e métodos de instância em uma classe?
+R: Os métodos estáticos pertencem à classe e podem ser invocados sem criar uma instância da classe. Já os métodos de instância pertencem a cada objeto individualmente e só podem ser invocados em objetos específicos.
+
+7. Como são tratados os conceitos de acoplamento e coesão na orientação a objetos e por que são importantes?
+R: Acoplamento se refere ao grau de interdependência entre classes. Coesão, por sua vez, está relacionada à medida em que os elementos da classe estão logicamente relacionados.
+Em resumo, acoplamento baixo e alta coesão ajudam a criar sistemas mais flexíveis, escaláveis e fáceis de evoluir ao longo do tempo.
+
+8. Qual é o objetivo do método main 
+R: Seu objetivo principal é iniciar a execução do programa, sendo o ponto de partida a partir do qual o sistema começa a executar as instruções contidas no código.
+
+9. Como ocorre a passagem de parâmetros em métodos de uma classe em programação orientada a objetos?
+R: A passagem de parâmetros em métodos de uma classe pode ocorrer de duas maneiras: por valor (a cópia do valor) e por referência (um ponteiro para o valor é passado).
+Passagem por valor: que é passada para o método, não afetará o valor original fora do método.
+Passagem por referência: é passada uma referência à localização da memória onde o valor está armazenado.
+
+10. Qual é a diferença entre os modificadores de acesso "public", "private" e "protected" em uma classe?
+R: "public": Pode ser acessado de qualquer outra classe ou objeto.
+ "private": Pode ser acessado apenas dentro da própria classe em que foi definido.
+ "protected": Permite que os acessos sejam pelas em classes derivadas (subclasses).
+
+11. Qual é a importância da palavra-chave "this" em programação orientada a objetos e como ela é utilizada?
+R: A palavra-chave "this" é uma referência ao objeto que utiliza em determinado contexto, é importante porque ajuda a evitar diferenciar entre as variáveis locais (ambiguidades), facilita o acesso aos membros da classe e contribui para a clareza e organização do código.
